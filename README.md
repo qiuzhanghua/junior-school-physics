@@ -37,7 +37,7 @@ PowerShell 下用 `./build.ps1`（参数为 `-Only 8年级第2章同步小测试
 `template.typ` 是从 typst-notes 生成的副本，本仓的可变项写在 `.template.conf`：
 
 ```
-TAG=v1.0.2          # 源仓版本
+TAG=v1.0.3          # 源仓版本
 EQNUM='"(1)"'       # 公式编号格式（Typst 字面量）；none 表示不编号
 TEXTSIZE=12pt       # 正文字号，本仓未写，用默认 12pt
 ```
